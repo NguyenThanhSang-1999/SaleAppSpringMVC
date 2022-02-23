@@ -1,4 +1,4 @@
-# SpringMVCSaleWebV1
+# SpringMVC
 <h2>Công nghệ sử dụng</h2>
 <ul>
   <li>Hệ thống Website bán hàng phát triển bằng SpringMVC</li>
